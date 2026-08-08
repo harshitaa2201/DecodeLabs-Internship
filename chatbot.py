@@ -41,7 +41,7 @@ while True:
         print(f"Nova AI: Your name is {name}.")
 
     elif user == "who created you":
-        print("Nova AI: I was created using Python by Harshita as a part of DecodeLabs Project 1.")
+        print("Nova AI: I was created using Python as a part of DecodeLabs Project 1.")
 
     elif user == "what is ai":
         print("Nova AI: AI stands for Artificial Intelligence.")
